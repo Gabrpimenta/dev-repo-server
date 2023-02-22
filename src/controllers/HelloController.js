@@ -4,4 +4,4 @@ class HelloController {
   }
 }
 
-export default HelloController;
+export default new HelloController();
